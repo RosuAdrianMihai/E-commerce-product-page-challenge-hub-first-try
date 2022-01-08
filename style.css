@@ -236,7 +236,7 @@ Previous Icon/Next Icon
   position: absolute;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 450.9px) {
   .menu {
     display: none;
   }
@@ -347,7 +347,7 @@ Previous Icon/Next Icon
   }
 }
 
-@media (min-width: 376px) {
+@media (min-width: 451px) {
   body {
     padding: 0 10%;
   }
